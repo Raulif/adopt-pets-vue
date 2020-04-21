@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PetTable species="dogs" :ƒpets="dogs" />
+    <PetTable species="dogs" :pets="dogs" />
   </div>
 </template>
 
